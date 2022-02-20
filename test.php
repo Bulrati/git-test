@@ -11,3 +11,7 @@ function b () {
 function c() {
     //sime
 }
+
+function d() {
+ //sdw
+}
